@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Audio recording of Dr. Martin Luther King, Jr. speaking to the press following the 1966 Alabama Democratic Primary" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/58/rec/3",
+        "type": "Text",
+        "label": { "en": [ "Home page for Audio recording of Dr. Martin Luther King, Jr. speaking to the press following the 1966 Alabama Democratic Primary" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2032.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll1/55.mp3/byte/json",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 2032.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
