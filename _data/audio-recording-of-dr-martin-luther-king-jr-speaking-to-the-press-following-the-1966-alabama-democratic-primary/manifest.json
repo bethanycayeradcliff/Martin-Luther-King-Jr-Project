@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2032.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1.json",
+            "label": "mlk_labels_1"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/paintings",

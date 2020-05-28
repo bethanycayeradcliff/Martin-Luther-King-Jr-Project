@@ -1,0 +1,176 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1.json",
+  "type": "AnnotationPage",
+  "label": "mlk_labels_1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MLK begins speaking. He discusses voter turnout of African-American voters",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "162.885364"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MLK mentions that accurate information has not been available from many counties",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "260.316794"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Discusses the monumental turnout of African-American voters",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.309761,295.292179"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MLK discusses the misinformation given to African-American voters and lack of preparation for the large turnout of voters",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "315.877691,412.909402"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Further discusses issues with voting results in certain counties",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "465.672268"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Discusses Governer Wallace and platform",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "868.188984"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Discusses potentional conversion of Wallace to being supportive of civil rights, and how that could affect African-American voters",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1208.749304"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas/mlk_labels_1-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MLK mentions that some African-American voters had to wait 6 hours to vote",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/Martin-Luther-King-Jr-Project/audio-recording-of-dr-martin-luther-king-jr-speaking-to-the-press-following-the-1966-alabama-democratic-primary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1580.287822"
+        }
+      }
+    }
+  ]
+}
